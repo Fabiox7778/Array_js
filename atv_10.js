@@ -17,7 +17,7 @@ console.log("--------------------------")
 if (jogo === favGame) {
     console.log(`Sim, ${jogo} é o favorito👍`)
 } else {
-    console.log(`Não, ${jogo} não é o favorito👎 ${i+1}`)
+    console.log(`Não, ${jogo} não é o favorito👎`)
 }
 
 console.log("--------------------------")
